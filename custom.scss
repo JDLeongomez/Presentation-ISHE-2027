@@ -1,0 +1,232 @@
+/*-- scss:defaults --*/
+
+// Colombia-inspired palette
+$body-bg: #ffffff;
+$body-color: #1a1a1a;
+$link-color: #1a5c2a;
+$link-color-hover: #c8a415;
+
+$presentation-heading-font: Georgia, 'Times New Roman', serif;
+$presentation-heading-color: #1a3a25;
+$presentation-heading-font-weight: normal;
+$presentation-font-size-root: 36px;
+
+$presentation-slide-text-align: left;
+
+/*-- scss:rules --*/
+
+// Global slide base
+.reveal .slides section {
+  text-align: left;
+}
+
+// Headings
+.reveal h1, .reveal h2 {
+  font-family: Georgia, 'Times New Roman', serif;
+  font-weight: normal;
+  letter-spacing: -0.02em;
+}
+
+.reveal h2 {
+  font-size: 1.4em;
+  color: #1a3a25;
+  border-bottom: 2px solid #c8a415;
+  padding-bottom: 0.15em;
+  margin-bottom: 0.6em;
+}
+
+// Section title slides (created with #)
+.reveal .slide-background-content {
+  background-size: cover;
+  background-position: center;
+}
+
+// Dark overlay for background-image slides
+.reveal section[data-background-image] h1,
+.reveal section[data-background-image] h2,
+.reveal section[data-background-image] p,
+.reveal section[data-background-image] li {
+  color: #ffffff;
+  text-shadow: 1px 1px 6px rgba(0,0,0,0.8);
+}
+
+.reveal section[data-background-image] h2 {
+  border-bottom-color: rgba(200, 164, 21, 0.7);
+}
+
+.reveal section[data-background-image] a {
+  color: #a8d5b5;
+}
+
+// Section divider slides (pure dark, no content)
+.section-title {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center !important;
+  height: 100%;
+}
+
+.section-title h1 {
+  font-size: 2.2em;
+  color: white;
+  text-shadow: 2px 2px 8px rgba(0,0,0,0.9);
+  border-bottom: 3px solid #c8a415;
+  padding-bottom: 0.3em;
+}
+
+.section-title p {
+  color: rgba(255,255,255,0.85);
+  font-style: italic;
+  font-size: 1.1em;
+  text-shadow: 1px 1px 4px rgba(0,0,0,0.8);
+  margin-top: 0.5em;
+}
+
+// Stat callout box
+.stat-box {
+  background: rgba(26, 92, 42, 0.08);
+  border-left: 5px solid #1a5c2a;
+  padding: 0.4em 0.8em;
+  margin: 0.25em 0;
+  font-size: 0.9em;
+  border-radius: 0 4px 4px 0;
+}
+
+.stat-box strong {
+  color: #1a3a25;
+}
+
+// Biodiversity ranking table
+.bio-rank {
+  font-size: 0.78em;
+  line-height: 1.5;
+}
+
+.bio-rank .rank-label {
+  font-weight: bold;
+  color: #1a5c2a;
+  font-size: 1.05em;
+}
+
+// Quote block styling
+.pull-quote {
+  border-left: 5px solid #c8a415;
+  padding: 0.5em 1em;
+  font-style: italic;
+  font-size: 0.95em;
+  background: rgba(200, 164, 21, 0.06);
+  border-radius: 0 4px 4px 0;
+  margin: 0.5em 0;
+}
+
+// Music links
+.music-link {
+  font-size: 0.75em;
+  line-height: 1.55;
+}
+
+.music-link a {
+  text-decoration: none;
+  color: #1a5c2a;
+}
+
+.music-link a:hover {
+  color: #c8a415;
+  text-decoration: underline;
+}
+
+.music-region {
+  font-weight: bold;
+  color: #555;
+  font-size: 0.75em;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+
+// Fact bullets with icons
+.reveal ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+.reveal ul li::before {
+  content: "▸ ";
+  color: #1a5c2a;
+  font-size: 0.85em;
+}
+
+// Ordered list override (keep numbers for social activities)
+.reveal ol {
+  padding-left: 1.5em;
+}
+
+.reveal ol li::before {
+  content: none;
+}
+
+// Photo grid for biodiversity
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  gap: 3px;
+  height: 430px;
+  width: 100%;
+}
+
+.photo-grid-center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background: white;
+  padding: 0.5em;
+  font-size: 0.7em;
+}
+
+.photo-grid img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+// Social activity images
+.activity-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 6px;
+  margin-bottom: 0.5em;
+}
+
+.activity-grid img {
+  width: 100%;
+  height: 160px;
+  object-fit: cover;
+  border-radius: 4px;
+}
+
+// Override for text columns on light-background slides (SCSS forces white on all background-image slides)
+.dark-text,
+.dark-text p,
+.dark-text li,
+.dark-text strong,
+.dark-text em {
+  color: #1a3a25 !important;
+  text-shadow: none !important;
+}
+
+// Footer logo tweak
+.reveal .footer {
+  font-size: 0.55em;
+  color: #666;
+}
+
+// Columns helper
+.img-fill img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
