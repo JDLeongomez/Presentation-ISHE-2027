@@ -61,14 +61,7 @@ From tropical beaches to Andean peaks, from the Amazon rainforest to Caribbean i
 
 
 ## One of the most biodiverse countries on Earth {background-image="img/slide04_collage.jpg" background-size="cover" background-opacity="0.55" background-color="#0d1f13"}
-That solves the iframe issue completely — served over HTTPS, browsers will have no problem with the YouTube embeds.
 
-A few things worth setting up for GitHub Pages while you're at it. Add these to your YAML header if they're not already there:
-
-￼
-yaml
-format:
-  re
 ::: {style="color:rgba(255,255,255,0.82); text-align:center; margin-top:0.3em;"}
 *Most biodiverse per km² — more species relative to its size than any other country* · 
 [Explore the National Parks ↗](http://www.parquesnacionales.gov.co/portal/en/){target="_blank"}
@@ -118,7 +111,7 @@ Mammals
 A different mix of Native American, European, and African ancestry in each region.
 
 ::: {style="margin-top:1em;"}
-[Colombia: a multi-ethnic and multicultural country ↗](https://www.colombia.co/en/colombia-country/colombia-multi-ethnic-multicultural-country/){target="_blank"}
+[Colombia: a multi-ethnic and multicultural country ↗](https://colombia.co/en/colombia-country/colombia-culture/music/colombia-multi-ethnic-multicultural-country){target="_blank"}
 :::
 :::
 :::
