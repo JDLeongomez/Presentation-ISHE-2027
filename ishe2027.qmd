@@ -34,7 +34,7 @@ title-slide-attributes:
 <h2 style="color:white; border-bottom:2px solid rgba(200,164,21,0.7); padding-bottom:0.15em; margin-bottom:0.4em;">Colombia is an incredibly diverse country</h2>
 
 ::: {style="color:white; font-size:0.9em; margin-top:0.5em;"}
-From tropical beaches to Andean peaks, from the Amazon rainforest to Caribbean islands — all within one country.
+From tropical beaches to Andean peaks, from the Amazon rainforest to Caribbean islands, all within one country.
 :::
 :::
 ::::
@@ -63,7 +63,7 @@ From tropical beaches to Andean peaks, from the Amazon rainforest to Caribbean i
 ## One of the most biodiverse countries on Earth {background-image="img/slide04_collage.jpg" background-size="cover" background-opacity="0.55" background-color="#0d1f13"}
 
 ::: {style="color:rgba(255,255,255,0.82); text-align:center; margin-top:0.3em;"}
-*Most biodiverse per km² — more species relative to its size than any other country* · 
+*Most biodiverse per km²: more species relative to its size than any other country* · 
 [Explore the National Parks ↗](http://www.parquesnacionales.gov.co/portal/en/){target="_blank"}
 :::
 
@@ -120,7 +120,7 @@ A different mix of Native American, European, and African ancestry in each regio
 
 ## Cultural diversity: music as an example {background-image="img/slide07_img00.jpg" background-opacity="0.4" background-color="#0d0d0d"}
 ::: {style="color:white; font-size:0.72em; margin-bottom:0.6em;"}
-Colombia is known as *"The Land of a Thousand Rhythms"* — in fact it has over **1,025** folkloric rhythms.
+Colombia is known as *"The Land of a Thousand Rhythms"* (in fact it has over **1,025** folkloric rhythms).
 :::
 :::: {.columns}
 ::: {.column width="48%"}
@@ -210,9 +210,9 @@ All regional examples linked in the previous slide
 :::: {.columns}
 ::: {.column width="56%" style="color:white; font-size:0.82em;"}
 - Crime has fallen dramatically since the 1990s; tourism grew 34% between 2019 and 2023
-- US State Dept issues a Level 3 advisory — but this covers the entire country, including remote border/jungle zones you would never visit
+- US State Dept issues a Level 3 advisory, but this covers the entire country, including remote border/jungle zones you would never visit
 - The flagged high-risk areas (Venezuelan border, Norte de Santander, parts of Cauca) are not on any conference itinerary
-- Like any big city, Bogotá has neighbourhoods to avoid — but the conference venue area (Chicó Norte) is one of the city's safest and best-patrolled zones
+- Like any big city, Bogotá has neighbourhoods to avoid, but the conference venue area (Chicó Norte) is one of the city's safest and best-patrolled zones
 :::
 ::: {.column width="44%"}
 ::: {.pull-quote style="background:rgba(200,164,21,0.15);"}
@@ -307,6 +307,9 @@ Colombia's **capital and largest city**, founded in 1538.
 :::: {.columns}
 ::: {.column width="65%"}
 <iframe src="bog_map.html" width="100%" height="480px" style="border:none; border-radius:6px;"></iframe>
+::: {style="font-size:0.6em; color:rgba(255,255,255,0.45); margin-top:0.3em; text-align:center;"}
+🖱️ Interactive map — hover over a point to see city and flight details · click, drag, and zoom to explore
+:::
 :::
 ::: {.column width="35%"}
 
@@ -323,30 +326,146 @@ Source: [FlightConnections, 2026](https://www.flightconnections.com/flights-from
 ::::
 
 
+## Bogotá: no visa required for most attendees {background-color="#0a0f14"}
+
+:::: {.columns}
+::: {.column width="55%"}
+
+::: {style="background:rgba(255,255,255,0.08); border-radius:8px; padding:0.8em; grid-column: span 2;"}
+::: {style="color:#c8a415; font-weight:bold; font-size:0.8em; margin-bottom:0.3em;"}
+🌎 Latin America
+:::
+::: {style="color:white; font-size:0.75em;"}
+No visa required for most countries: Bogotá is a natural hub for regional attendees
+:::
+:::
+
+::: {style="display:grid; grid-template-columns:1fr 1fr; gap:0.7em; margin-top:0.7em;"}
+
+::: {style="background:rgba(255,255,255,0.08); border-radius:8px; padding:0.8em;"}
+::: {style="color:#c8a415; font-weight:bold; font-size:0.8em; margin-bottom:0.3em;"}
+🇪🇺 European Union / Schengen
+:::
+::: {style="color:white; font-size:0.75em;"}
+No visa required · stamp on arrival
+:::
+:::
+
+::: {style="background:rgba(255,255,255,0.08); border-radius:8px; padding:0.8em;"}
+::: {style="color:#c8a415; font-weight:bold; font-size:0.8em; margin-bottom:0.3em;"}
+🇬🇧 🇺🇸 🇨🇦 🇦🇺 UK · USA · Canada · Australia
+:::
+::: {style="color:white; font-size:0.75em;"}
+No visa required · stamp on arrival
+:::
+:::
+
+:::
+
+:::
+::: {.column width="45%"}
+::: {style="color:white; padding-left:0.5em;"}
+
+<br>
+
+Colombia's open visa policy covers the **vast majority of potential ISHE attendees**  from Latin America, North America, and Europe.
+
+::: {style="margin-top:0.8em; background:rgba(200,164,21,0.12); border-radius:6px; padding:0.6em; font-size:0.78em; color:rgba(255,255,255,0.85);"}
+Up to **90 days** per stay (extendable to 180 days/year). No advance paperwork required.
+:::
+
+::: {style="margin-top:0.8em; font-size:0.65em; color:rgba(255,255,255,0.5);"}
+[Colombia visa exemption & requirements ↗](https://embassies.net/colombia-visa-exemption){target="_blank"}
+:::
+
+:::
+:::
+::::
+
+
+## Bogotá: excellent value {background-color="#0a0f14"}
+
+<h3 style="color:white; text-align:center; font-size:0.85em; border-bottom:1px solid rgba(200,164,21,0.4); padding-bottom:0.2em; margin-bottom:0.7em;">Estimated daily costs — mid-range conference attendee (USD)</h3>
+
+:::: {.columns}
+::: {.column width="33%"}
+::: {style="background:rgba(200,164,21,0.18); border-radius:8px; padding:1em; text-align:center; border: 1px solid rgba(200,164,21,0.4);"}
+::: {style="color:#c8a415; font-weight:bold; font-size:1em; margin-bottom:0.4em;"}
+🇨🇴 Bogotá
+:::
+::: {style="color:white; font-size:0.8em; text-align:left; margin-top:0.5em;"}
+🏨 Hotel (3–4★): **$80–120**
+🍽️ Restaurant meal: **$12–20**
+🚕 City transport: **$3–8**
+:::
+::: {style="color:#c8a415; font-size:1.2em; font-weight:bold; margin-top:0.6em;"}
+~$95–148 / day
+:::
+:::
+:::
+::: {.column width="33%"}
+::: {style="background:rgba(255,255,255,0.06); border-radius:8px; padding:1em; text-align:center;"}
+::: {style="color:rgba(255,255,255,0.7); font-weight:bold; font-size:1em; margin-bottom:0.4em;"}
+🇧🇷 São Paulo / Brazil
+:::
+::: {style="color:rgba(255,255,255,0.65); font-size:0.8em; text-align:left; margin-top:0.5em;"}
+🏨 Hotel (3–4★): **$150–220**
+🍽️ Restaurant meal: **$20–35**
+🚕 City transport: **$5–12**
+:::
+::: {style="color:rgba(255,255,255,0.6); font-size:1.2em; font-weight:bold; margin-top:0.6em;"}
+~$175–267 / day
+:::
+:::
+:::
+::: {.column width="33%"}
+::: {style="background:rgba(255,255,255,0.06); border-radius:8px; padding:1em; text-align:center;"}
+::: {style="color:rgba(255,255,255,0.7); font-weight:bold; font-size:1em; margin-bottom:0.4em;"}
+🇨🇱 Santiago / Chile
+:::
+::: {style="color:rgba(255,255,255,0.65); font-size:0.8em; text-align:left; margin-top:0.5em;"}
+🏨 Hotel (3–4★): **$130–190**
+🍽️ Restaurant meal: **$18–30**
+🚕 City transport: **$4–10**
+:::
+::: {style="color:rgba(255,255,255,0.6); font-size:1.2em; font-weight:bold; margin-top:0.6em;"}
+~$152–230 / day
+:::
+:::
+:::
+::::
+
+::: {style="font-size:0.6em; color:rgba(255,255,255,0.4); margin-top:0.8em; text-align:center;"}
+Approximate 2025–2026 rates · Sources: Booking.com · Numbeo · local listings
+:::
+
+
 ## Bogotá: what the city offers {background-image="img/slide12_img01.jpg" background-opacity="0.45" background-color="#111"}
 
 :::: {.columns}
 ::: {.column width="50%"}
 <!-- city panorama on the left -->
 :::
-::: {.column width="50%"}
-::: {style="color:white;"}
+::: {.column width="50%" style="color:white; font-size:0.82em;"}
 
 - **58 museums**, including the world-class Gold Museum
 - Wide range of hotels, hostels, and Airbnb
-- Hundreds of restaurants, bars, and cafés
 - Vibrant cultural calendar year-round
 
-::: {.pull-quote style="background:rgba(200,164,21,0.15);"}
+::: {style="margin-top:0.8em; background:rgba(200,164,21,0.18); border-radius:8px; padding:0.8em; border:1px solid rgba(200,164,21,0.4);"}
+::: {style="color:#c8a415; font-weight:bold; font-size:0.85em; margin-bottom:0.3em;"}
+🍽️ World-class gastronomy
+:::
+::: {style="font-size:0.8em; color:white;"}
+Home to [**El Chato**](https://www.theworlds50best.com/restaurants/best-in-latin-america/the-list/El-Chato.html){target="_blank"} — **#1 restaurant in Latin America** (World's 50 Best). Hundreds of options at every price point.
+:::
+:::
+
+::: {.pull-quote style="background:rgba(200,164,21,0.15); margin-top:0.8em;"}
 *"Bogotá, Colombia's banging capital"*
 
 ::: {style="font-size:0.7em; color:rgba(255,255,255,0.7);"}
 [— The Guardian ↗](https://www.theguardian.com/travel/2017/feb/25/bogota-colombia-music-clubs-nightlife){target="_blank"}
-:::
-:::
-
-::: {style="font-size:0.8em; margin-top:0.8em;"}
-[Best restaurants ↗](https://www.eater.com/maps/best-bogota-restaurants){target="_blank"}
 :::
 :::
 :::
