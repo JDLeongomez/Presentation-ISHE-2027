@@ -1,6 +1,6 @@
 ---
 title: "Bogotá, Colombia"
-subtitle: "ISHE Summer Institute 2027"
+subtitle: "ISHE Congress 2028"
 format:
   revealjs:
     embed-resources: false
@@ -10,7 +10,7 @@ format:
     transition: slide
     background-transition: fade
     logo: img/slide14_img06.png
-    footer: "ISHE Summer Institute 2027 · Bogotá, Colombia"
+    footer: "ISHE Congress 2028 · Bogotá, Colombia"
     progress: true
     controls: true
     history: true
@@ -610,7 +610,7 @@ Bogotá, Colombia
 :::
 
 ::: {style="color:rgba(200,164,21,0.9); font-size:1em; margin-top:0.5em; text-shadow:1px 1px 4px rgba(0,0,0,0.8); letter-spacing:0.1em; text-transform:uppercase;"}
-ISHE Summer Institute 2027
+ISHE Congress 2028
 :::
 
 <div style="display:flex; gap:3em; margin-top:2em; align-items:center;">
