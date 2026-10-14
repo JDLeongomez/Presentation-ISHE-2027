@@ -2,6 +2,8 @@ library(leaflet)
 library(geosphere)
 library(dplyr)
 library(htmlwidgets)
+library(rnaturalearth)
+library(sf)
 
 bog <- c(-74.1469, 4.7016)
 
@@ -104,13 +106,24 @@ draw_arcs <- function(map, destinations, color, weight, opacity, dash = NULL) {
   map
 }
 
+# --- World outline (static, self-contained — no basemap tile server) ---
+# CARTO's DarkMatter tiles started requiring an API key after this map was
+# first built, breaking the embed with no warning. Drawing the coastline
+# ourselves from bundled Natural Earth data means there is nothing left to
+# fetch at load time, and nothing that can start requiring a key again.
+world <- ne_countries(scale = "small", returnclass = "sf")
+
 # --- Build map ---
 m <- leaflet(options = leafletOptions(
   zoomControl       = TRUE,
   attributionControl = FALSE,
   scrollWheelZoom   = "center"
 )) |>
-  addProviderTiles("CartoDB.DarkMatter") |>
+  addPolygons(data = world,
+              fillColor = "#336b47", fillOpacity = 1,
+              color = "#4a8a60", weight = 0.4,
+              options = pathOptions(clickable = FALSE)) |>
+  htmlwidgets::onRender("function(el) { el.style.background = '#0f3d1e'; }") |>
   setView(lng = -30, lat = 15, zoom = 2)
 
 # Draw route arcs
