@@ -1,0 +1,368 @@
+---
+title: "ISHE 2027 en Bogotá"
+subtitle: "Congreso de la Sociedad Internacional de Etología Humana"
+author: "Juan David Leongómez"
+date: today
+date-format: long
+lang: es
+site-url: "https://ishe2027.netlify.app/"
+format:
+  revealjs:
+    theme: [default, custom.scss]
+    embed-resources: true
+    slide-number: c/t
+    transition: fade
+    logo: img/slide14_img06.png
+    footer: "ISHE Congress 2027 · Bogotá, Colombia"
+    progress: true
+    controls: true
+    width: 1280
+    height: 720
+title-slide-attributes:
+  data-background-image: img/slide01_img00.jpg
+  data-background-opacity: "0.55"
+  data-background-color: "#0d1f13"
+---
+
+## Qué es ISHE
+
+:::: {.columns}
+::: {.column width="58%"}
+Sociedad científica internacional que estudia el comportamiento humano desde un marco darwiniano: la selección natural y cultural moldea la cognición, el afecto y la conducta.
+
+- Fundada en **1972**
+- **Interdisciplinaria**: psicología, antropología, biología, primatología, psiquiatría, salud pública, enfermería y etología
+- Miembros de unos **26 países**
+- Revista de acceso abierto *Human Ethology*
+
+:::
+::: {.column width="42%"}
+::: {.kpis style="grid-template-columns:1fr;"}
+::: {.kpi}
+[1972]{.n} [Año de fundación]{.l}
+:::
+::: {.kpi}
+[~26]{.n} [Países de origen de sus miembros]{.l}
+:::
+::: {.kpi}
+[~130]{.n} [Participantes esperados en Bogotá]{.l}
+:::
+:::
+:::
+::::
+
+
+## Dónde se ha hecho antes {.smaller auto-animate="true"}
+
+:::: {.venues .with-map}
+::: {.vcol}
+::: {.vhead}
+Congresos internacionales
+:::
+
+- [**2026**](https://ishe.org/wp-content/uploads/2026/06/BoA_ISHE26_Final_DIGITAL.pdf){.y} Les Eyzies, Francia
+- [**2024**](https://ishe.org/wp-content/uploads/2024/11/BoA_2024_v07_km.pdf){.y} Humboldt, EE. UU.
+- [**2022**](https://ishe.org/wp-content/uploads/2022/08/HE_2022_37_suppl.pdf){.y} Würzburg, Alemania
+- [**2021**](https://ishe.org/wp-content/uploads/2021/09/HE_Abstracts_2021.pdf){.y} En línea e internacional
+- [**2018**](https://ishe.org/wp-content/uploads/2018/09/Program-ISHE-2018.pdf){.y} Santiago, Chile
+- [**2016**](https://ishe.org/wp-content/uploads/2015/03/Stirling2016.pdf){.y} Stirling, Escocia
+- [**2014**](https://ishe.org/wp-content/uploads/2015/03/Belem2014.pdf){.y} Belém, Brasil
+- [**2012**](https://ishe.org/wp-content/uploads/2015/03/PROGRAMM_ISHE2012.pdf){.y} Viena, Austria
+- [**2010**](https://ishe.org/wp-content/uploads/2015/03/Madison2010.pdf){.y} Madison, EE. UU.
+:::
+::: {.vcol}
+::: {.vhead}
+&nbsp;
+:::
+
+- [**2008**](https://ishe.org/wp-content/uploads/2015/03/Bologna2008.pdf){.y} Bolonia, Italia
+- [**2006**](https://ishe.org/wp-content/uploads/2015/03/Detroit2006.pdf){.y} Detroit, EE. UU.
+- [**2004**](https://ishe.org/wp-content/uploads/2015/03/Ghent2004.pdf){.y} Gante, Bélgica
+- [**2002**](https://ishe.org/wp-content/uploads/2015/03/Montreal2002.pdf){.y} Montreal, Canadá
+- [**2000**](https://ishe.org/wp-content/uploads/2015/03/Salamanca2000.pdf){.y} Salamanca, España
+- [**1998**](https://ishe.org/wp-content/uploads/2015/03/Burnaby1998.pdf){.y} Burnaby, Canadá
+- [**1996**](https://ishe.org/wp-content/uploads/2015/03/Vienna-1996.pdf){.y} Viena, Austria
+- [**1994**](https://ishe.org/wp-content/uploads/2015/03/Toronto-1994.pdf){.y} Toronto, Canadá
+:::
+::: {.vcol}
+::: {.vhead}
+Summer Institutes
+:::
+
+- [**2025**](https://ishe.org/wp-content/uploads/2025/07/BoA_2025.pdf){.y} Chile y Austria
+- [**2023**](https://ishe.org/wp-content/uploads/2023/07/BoA_v06_km.pdf){.y} Detroit, České Budějovice y Recife
+- [**2019**](https://ishe.org/wp-content/uploads/2019/09/2019-ISHE-SI-programme.pdf){.y} Zadar, Croacia
+- [**2017**](https://ishe.org/wp-content/uploads/2016/05/ISHE2017-Programme.pdf){.y} Boise, EE. UU.
+- [**2015**](https://ishe.org/wp-content/uploads/2015/03/athens2015.pdf){.y} Atenas, Grecia
+- [**2013**](https://ishe.org/wp-content/uploads/2015/03/AnnArbor2013.pdf){.y} Ann Arbor, EE. UU.
+- [**2011**](https://ishe.org/wp-content/uploads/2015/03/programme_final.pdf){.y} Praga, República Checa
+- [**2009**](https://ishe.org/wp-content/uploads/2015/03/maine2009.pdf){.y} Maine, EE. UU.
+- [**2007**](https://ishe.org/wp-content/uploads/2015/03/andechs2007.pdf){.y} Andechs, Alemania
+
+::: {.note}
+Fuente: programas y libros de resúmenes en [ishe.org](https://ishe.org/conferences-and-summer-institutes/)
+:::
+:::
+::: {.vmap}
+<iframe data-id="venues-map" src="ishe_venues_map.html" width="100%" height="430" style="border:none;"></iframe>
+:::
+::::
+
+::: {.notes}
+ISHE organiza congreso en años pares y Summer Institute en años impares. Desde 2027 se unifican en un solo evento anual.
+:::
+
+
+## Dónde se ha hecho antes {auto-animate="true"}
+
+<iframe data-id="venues-map" src="ishe_venues_map.html" width="100%" height="560" style="border:none; border-radius:6px;"></iframe>
+
+::: {.notes}
+Vista ampliada del mapa: países sombreados han sido sede de un congreso o summer institute de ISHE.
+:::
+
+
+## {background-color="#1a3a25" .statement-slide}
+
+::: {.statement}
+[Bogotá inaugura el nuevo formato de ISHE]{.headline}
+
+[Un solo evento anual que une los talleres de posgrado y el congreso]{.sub}
+:::
+
+::: {.notes}
+A partir de 2027 se unifican el Summer Institute y el Congreso en un único evento anual: un día de talleres de posgrado seguido del congreso.
+:::
+
+
+## Por qué es importante
+
+:::: {.columns}
+::: {.column width="58%"}
+- **Primera vez en Colombia** y tercer país latinoamericano en acoger a ISHE (tras Brasil y Chile)
+- Programa con enfoque **transcultural** y al menos una plenaria de un investigador colombiano
+- **Anfitriones**:
+
+::: {.hostlogos}
+<a href="https://grupo-codec.netlify.app/" target="_blank"><img src="img/CODEC_sobre_claro.png" alt="CODEC"></a>
+<a href="https://jdleongomez.info/es/lab/" target="_blank"><img src="img/EvoCo_sobre_claro.png" alt="EvoCo"></a>
+:::
+:::
+::: {.column width="42%"}
+<img class="photo" src="img/slide14_img01.jpg" style="height:380px; margin-top:0.4em;">
+:::
+::::
+
+::: {.notes}
+El comité científico incluye a Jan Havlíček (presidente de ISHE), Jaroslava Varella Valentova (vicepresidenta) y a la Universidad como anfitriona local, con Milena Vásquez-Amézquita y Juan David Leongómez.
+:::
+
+
+## Plan del congreso: 5 a 9 de julio de 2027
+
+::: {.week}
+::: {.day}
+[Lun 5]{.dt} Talleres para estudiantes de posgrado (festivo en Colombia)
+:::
+::: {.day}
+[Mar 6]{.dt} Sesiones científicas y plenarias. Cóctel de bienvenida
+:::
+::: {.day .hl}
+[Mié 7]{.dt} Sesiones y **sesión de pósters** por la tarde
+:::
+::: {.day}
+[Jue 8]{.dt} Sesiones hasta el mediodía. Tarde de recorrido por Bogotá (Museo del Oro, Plaza de Bolívar, Monserrate)
+:::
+::: {.day}
+[Vie 9]{.dt} Sesión final y cena de clausura
+:::
+:::
+
+- **130 participantes**, en un hotel de Chicó Norte (en negociación)
+- Cinco plenarias (por confirmar), con comité científico internacional
+- **Febrero de 2027:** inscripciones y convocatoria de resúmenes. **Abril:** cierre de resúmenes
+- Viaje opcional a Cartagena y Tayrona al terminar, pagado por cada participante
+
+::: {.notes}
+Sede principal: hotel en Chicó Norte (el Estelar Parque de la 93 es la opción líder). La sesión de pósters del miércoles es la actividad que proponemos hacer en la Universidad.
+:::
+
+
+## Un congreso sin ánimo de lucro
+
+::: {.kpis}
+::: {.kpi}
+[€107.000]{.n} [Gasto estimado (≈ COP 400 millones)]{.l}
+:::
+::: {.kpi}
+[€11.750]{.n} [Ingreso previsto por inscripciones]{.l}
+:::
+::: {.kpi}
+[€95.500]{.n} [Cubiertos por ISHE (≈ COP 356 millones)]{.l}
+:::
+:::
+
+::: {.splitbar}
+::: {.a}
+11%
+:::
+::: {.b}
+89% lo pone ISHE
+:::
+:::
+
+::: {.flow}
+::: {.box .gold}
+**ISHE**<br>fondos de la sociedad
+:::
+::: {.arrow}
+→
+:::
+::: {.box}
+**Proveedores**<br>hotel, catering, buses, guías
+:::
+::: {.arrow}
+&nbsp;
+:::
+::: {.box .grey}
+**Universidad El Bosque**<br>ningún dinero pasa por la Universidad
+:::
+:::
+
+::: {.note}
+Presupuesto preliminar (octubre de 2026), en revisión con ISHE; incluye 10% de contingencia. ISHE paga directamente a los proveedores. No se proyecta excedente.
+:::
+
+::: {.notes}
+Insistir en que el modelo evita cualquier trámite financiero para la Universidad. Los ingresos por patrocinio (Alcaldía, Universidad, otros) están en cero en el presupuesto actual y quedan por gestionar.
+:::
+
+
+## ISHE invierte en sus estudiantes
+
+:::: {.columns}
+::: {.column width="55%"}
+- **66 de 130** participantes con inscripción gratuita (oficiales, plenaristas y estudiantes que presentan como primeros autores)
+- **46 estudiantes alojados** por ISHE durante 5 noches: ≈ €13.400 (≈ COP 50 millones), un octavo del presupuesto total
+- **Taller de posgrado** el lunes, antes del congreso
+- **Premios** a los mejores pósters
+:::
+::: {.column width="45%"}
+**Inscripción temprana**
+
+| | Socio ISHE | No socio |
+|:--|--:|--:|
+| Estudiante | €100 | €150 |
+| Investigador | €200 | €320 |
+
+::: {.note}
+Cifras preliminares del presupuesto de ISHE (octubre de 2026).
+:::
+:::
+::::
+
+::: {.notes}
+Los estudiantes alojados corresponden a la Opción B (hotel cercano, cotización de bh Parque 93). Las tarifas son las estándar de ISHE (referencia: Les Eyzies 2026).
+:::
+
+
+## Visibilidad para la Universidad
+
+:::: {.columns}
+::: {.column width="60%"}
+- La Universidad aparece como **anfitriona** en el programa, el libro de resúmenes, la web, las credenciales y los materiales del congreso
+- **130 investigadores** internacionales conocen el campus durante la sesión de pósters
+- **Difusión** en los canales de ISHE y de la Universidad
+- **Estudiantes y profesores** de la Universidad participan como voluntarios, autores y asistentes a los talleres
+- Posicionamiento en la **investigación evolutiva** de América Latina
+:::
+::: {.column width="40%"}
+<img class="photo" src="img/slide10_img02.jpg" style="height:400px; margin-top:0.4em;">
+:::
+::::
+
+
+## Qué solicitamos a la Universidad
+
+::: {.cards}
+::: {.card .gold}
+[Sesión de pósters en la Universidad]{.t}
+Miércoles 7 de julio de 2027, por la tarde: espacio, montaje, cóctel y, si es posible, buses. Detalle en la siguiente diapositiva.
+:::
+::: {.card}
+[Aval institucional]{.t}
+Carta de apoyo de la Vicerrectoría y presentación del proyecto al Consejo de Investigación.
+:::
+::: {.card}
+[Comunicaciones y diseño]{.t}
+Apoyo del equipo de diseño en la imagen del congreso y difusión en los canales institucionales.
+:::
+::: {.card}
+[Voluntarios]{.t}
+Estudiantes de la Universidad como apoyo del comité local (camisetas y refrigerios previstos en el presupuesto de ISHE).
+:::
+:::
+
+::: {.notes}
+Pedir primero el aval y la sesión de pósters; los demás puntos son complementarios.
+:::
+
+
+## Sesión de pósters: miércoles 7 de julio, tarde
+
+Probablemente unos **30 a 50 pósters**, unos **130 asistentes**.
+
+::: {.tier}
+::: {.chip}
+Importante
+:::
+::: {.txt}
+**Auditorio principal** y **montaje**: paneles o caballetes para pósters en formato A0 vertical (84 × 119 cm, por confirmar con el comité científico)
+:::
+:::
+
+::: {.tier}
+::: {.chip .gold}
+Deseable
+:::
+::: {.txt}
+**Vino y cóctel** durante la sesión. Referencia: cotización del hotel de COP 34.000 por persona (≈ COP 4,4 millones para 130 personas)
+:::
+:::
+
+::: {.tier}
+::: {.chip .soft}
+Increíble
+:::
+::: {.txt}
+**Buses** hotel-Universidad, ida y vuelta: ~4 buses
+:::
+:::
+
+::: {.note}
+ISHE aporta el programa, la evaluación y los premios de pósters. Idealmente confirmar en noviembre de 2026, antes de firmar el contrato con el hotel.
+:::
+
+::: {.notes}
+Si la sesión se hace en la Universidad, ISHE deja de pagar el café de la tarde del miércoles en el hotel y suma el costo de los buses (ahorro neto de unos €340). Si la Universidad cubre los buses, ISHE ahorra además unos €945.
+:::
+
+
+## Próximos pasos
+
+:::: {.columns}
+::: {.column width="55%"}
+- **Noviembre de 2026:** respuesta sobre la sesión de pósters; contrato con el hotel
+- **Noviembre-diciembre:** presupuesto final aprobado por ISHE
+- **Febrero de 2027:** abren inscripciones y convocatoria de resúmenes
+- **5-9 de julio de 2027:** congreso en Bogotá
+:::
+::: {.column width="45%"}
+**Sitio web del congreso**
+
+[{{< meta site-url >}}]({{< meta site-url >}}){target="_blank"}
+
+Juan David Leongómez<br>
+Universidad El Bosque
+:::
+::::
