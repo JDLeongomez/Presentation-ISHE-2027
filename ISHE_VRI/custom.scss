@@ -115,6 +115,11 @@ $presentation-slide-text-align: left;
   margin-top: 0.2em;
 }
 
+// Variante de 4 columnas (p. ej. coautorías con varias personas)
+.kpis.four {
+  grid-template-columns: repeat(4, 1fr);
+}
+
 // Barra 11 % / 89 %
 .splitbar {
   display: flex;
@@ -187,6 +192,11 @@ $presentation-slide-text-align: left;
 .day.hl {
   border-top-color: #c8a415;
   background: rgba(200, 164, 21, 0.12);
+}
+
+// Variante de 4 columnas (p. ej. hitos en vez de días de la semana)
+.week.four {
+  grid-template-columns: repeat(4, 1fr);
 }
 
 // Tarjetas de solicitudes

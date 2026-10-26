@@ -1,11 +1,11 @@
 ---
 title: "ISHE 2027 en Bogotá"
 subtitle: "Congreso de la Sociedad Internacional de Etología Humana"
-author: "Juan David Leongómez"
-date: today
+author: 'Juan David Leongómez<br><img src="ishe2027_vri.svg" style="width:200px; margin-top:18px; border-radius:8px;">'
+date: 2026/10/27
 date-format: long
 lang: es
-site-url: "https://ishe2027.netlify.app/"
+site-url: "https://2027.ishe.org/"
 format:
   revealjs:
     theme: [default, custom.scss]
@@ -119,6 +119,46 @@ ISHE organiza congreso en años pares y Summer Institute en años impares. Desde
 
 ::: {.notes}
 Vista ampliada del mapa: países sombreados han sido sede de un congreso o summer institute de ISHE.
+:::
+
+
+## Cómo llegó ISHE a Bogotá
+
+::: {.week .four}
+::: {.day}
+[2018]{.dt} Primera propuesta de Bogotá como sede del congreso de ISHE
+:::
+::: {.day}
+[Finales de 2019]{.dt} ISHE acepta tentativamente el Summer Institute 2021 en Bogotá, con apoyo de varios trustees. La pandemia lo cancela
+:::
+::: {.day}
+[Nueva candidatura]{.dt} Nuevo pitch pensado para un Summer Institute: diversidad biológica y cultural de Bogotá (la música como ejemplo), precios, gastronomía y conexiones aéreas
+:::
+::: {.day .hl}
+[2027]{.dt} ISHE decide unir el congreso y el Summer Institute, y pide a Bogotá inaugurar el nuevo formato
+:::
+:::
+
+:::: {.columns}
+::: {.column width="55%"}
+<div style="display:flex; align-items:center; gap:14px;">
+<img src="pitch_ishe2027.svg" style="width:250px; flex-shrink:0;">
+<p><strong>Propuesta completa:</strong> <a href="https://jdleongomez.github.io/Presentation-ISHE-2027/ishe2027.html" target="_blank">jdleongomez.github.io/Presentation-ISHE-2027/ishe2027.html</a></p>
+</div>
+:::
+::: {.column width="45%"}
+<img src="img/slide04_collage.jpg" style="height:140px; border-radius:6px; margin-right:8px;">
+<img src="img/slide07_img00.jpg" style="height:140px; border-radius:6px;">
+
+<div style="display:flex; align-items:center; gap:14px;">
+<img src="colombian_music_map.svg" style="width:140px; flex-shrink:0;">
+<p><strong>Colombian music map:</strong> <a href="https://jdleongomez.github.io/Colombian_music_map/" target="_blank">jdleongomez.github.io/Colombian_music_map/</a></p>
+</div>
+:::
+::::
+
+::: {.notes}
+La unificación del congreso y el Summer Institute fue una decisión de ISHE, no una propuesta nuestra. ISHE aceptó la propuesta de Bogotá para inaugurar el nuevo formato.
 :::
 
 
@@ -242,7 +282,7 @@ Insistir en que el modelo evita cualquier trámite financiero para la Universida
 
 :::: {.columns}
 ::: {.column width="55%"}
-- **66 de 130** participantes con inscripción gratuita (oficiales, plenaristas y estudiantes que presentan como primeros autores)
+- **66 de 130** participantes con inscripción gratuita (oficiales, plenaristas y estudiantes que presentan como primeros autores*)
 - **46 estudiantes alojados** por ISHE durante 5 noches: ≈ €13.400 (≈ COP 50 millones), un octavo del presupuesto total
 - **Taller de posgrado** el lunes, antes del congreso
 - **Premios** a los mejores pósters
@@ -261,25 +301,89 @@ Cifras preliminares del presupuesto de ISHE (octubre de 2026).
 :::
 ::::
 
+::: {.note}
+\* Estudiantes de cualquier nivel, aunque tradicionalmente la mayoría son de doctorado (también participan de pregrado y maestría).
+:::
+
 ::: {.notes}
 Los estudiantes alojados corresponden a la Opción B (hotel cercano, cotización de bh Parque 93). Las tarifas son las estándar de ISHE (referencia: Les Eyzies 2026).
 :::
 
 
-## Visibilidad para la Universidad
+## Participar en ISHE ya ha dado resultados
 
-:::: {.columns}
-::: {.column width="60%"}
-- La Universidad aparece como **anfitriona** en el programa, el libro de resúmenes, la web, las credenciales y los materiales del congreso
-- **130 investigadores** internacionales conocen el campus durante la sesión de pósters
-- **Difusión** en los canales de ISHE y de la Universidad
-- **Estudiantes y profesores** de la Universidad participan como voluntarios, autores y asistentes a los talleres
-- Posicionamiento en la **investigación evolutiva** de América Latina
+::: {.kpis style="grid-template-columns:repeat(5,1fr);"}
+::: {.kpi}
+[2016]{.n} [Stirling (congreso)]{.l}
 :::
-::: {.column width="40%"}
-<img class="photo" src="img/slide10_img02.jpg" style="height:400px; margin-top:0.4em;">
+::: {.kpi}
+[2018]{.n} [Santiago (congreso)]{.l}
 :::
-::::
+::: {.kpi}
+[2019]{.n} [Zadar (Summer Institute)]{.l}
+:::
+::: {.kpi}
+[2023]{.n} [Recife (Summer Institute, invitado por ISHE)]{.l}
+:::
+::: {.kpi}
+[2025]{.n} [Valparaíso (Summer Institute, invitado por ISHE)]{.l}
+:::
+:::
+
+::: {.note style="font-size:0.58em; color:#1a3a25; text-align:center; margin:0.35em 0;"}
+También soy miembro fundador y de la junta de la Latin American Association for Human Behavioral and Evolutionary Sciences (LAAHBES).
+:::
+
+::: {.kpis .four}
+::: {.kpi}
+[11+]{.n} [Craig Roberts, trustee y expresidente de ISHE]{.l}
+:::
+::: {.kpi}
+[8+]{.n} [Jan Havlíček, presidente de ISHE]{.l}
+:::
+::: {.kpi}
+[6+]{.n} [Jaroslava Varella Valentova, vicepresidenta de ISHE]{.l}
+:::
+::: {.kpi}
+[4+]{.n} [Ana María Fernández, secretaria de ISHE]{.l}
+:::
+:::
+
+**Participar en ISHE se convirtió en una red de colaboración con quienes hoy la dirigen. Ser sede multiplica esa oportunidad para estudiantes y profesores de la Universidad.**
+
+::: {.notes}
+Este es un solo caso, el mío: lo menciono antes de que alguien lo señale.
+:::
+
+
+## Resultados esperados
+
+::: {.cards}
+::: {.card}
+[Científicos]{.t}
+Colaboraciones y proyectos con unos 130 investigadores internacionales. Contactos para profesores y estudiantes de varias facultades.
+:::
+::: {.card}
+[Formación]{.t}
+Día de talleres de posgrado y pósters de estudiantes de la Universidad. Los primeros autores de una ponencia o póster aceptado, estudiantes de la Universidad incluidos, tienen inscripción y alojamiento cubiertos por ISHE
+:::
+::: {.card}
+[Visibilidad]{.t}
+La Universidad como anfitriona en el programa, el libro de resúmenes, la web, las credenciales y los materiales del congreso. Los asistentes conocen el campus en la sesión de pósters, con difusión en los canales de ISHE y de la Universidad
+:::
+::: {.card}
+[Redes]{.t}
+Invitaciones futuras, posibles intercambios y presencia de la Universidad en la investigación evolutiva de América Latina. LAAHBES, iniciativa latinoamericana liderada en su mayoría por miembros de ISHE, consolidó su plan en los encuentros de ISHE
+:::
+:::
+
+::: {.note style="font-size:0.62em; color:#1a3a25;"}
+**Compromiso:** informe de resultados al Consejo y a la Vicerrectoría después del congreso, con asistentes por país, pósters y participantes de la Universidad, colaboraciones iniciadas y presencia en medios.
+:::
+
+::: {.notes}
+Estos son resultados esperados, no garantizados.
+:::
 
 
 ## Qué solicitamos a la Universidad
@@ -291,7 +395,7 @@ Miércoles 7 de julio de 2027, por la tarde: espacio, montaje, cóctel y, si es 
 :::
 ::: {.card}
 [Aval institucional]{.t}
-Carta de apoyo de la Vicerrectoría y presentación del proyecto al Consejo de Investigación.
+Aval del Consejo de Investigaciones y carta de apoyo de la Vicerrectoría.
 :::
 ::: {.card}
 [Comunicaciones y diseño]{.t}
@@ -358,9 +462,17 @@ Si la sesión se hace en la Universidad, ISHE deja de pagar el café de la tarde
 - **5-9 de julio de 2027:** congreso en Bogotá
 :::
 ::: {.column width="45%"}
-**Sitio web del congreso**
+<div style="display:flex; align-items:center; gap:14px;">
+<img src="web_ishe2027.svg" style="width:200px; flex-shrink:0;">
+<div>
+<p><strong>Sitio web del congreso</strong></p>
+<p><a href="{{< meta site-url >}}" target="_blank">{{< meta site-url >}}</a></p>
+</div>
+</div>
 
-[{{< meta site-url >}}]({{< meta site-url >}}){target="_blank"}
+::: {.note}
+Sitio creado y mantenido en un 100% por mí.
+:::
 
 Juan David Leongómez<br>
 Universidad El Bosque
